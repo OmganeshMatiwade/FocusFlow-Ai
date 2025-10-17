@@ -1,0 +1,7 @@
+{
+  "name": "EduPulse – AI-Powered Student Engagement Engine",
+  "description": "An AI system that continuously monitors student engagement during online sessions and dynamically reacts with stories, humor, and challenges when attention levels drop, ensuring an interactive and motivating learning experience.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
