@@ -8,8 +8,6 @@ KLE CKD Focus Flow AI working on local host with cam.
 
 This contains everything you need to run your app locally.
 
-View your app in AI Studio: https://ai.studio/apps/drive/1c3uesY44b9Jl_ccJuGBmm-6XOgmSy1t2
-
 ## Run Locally
 
 **Prerequisites:** Node.js
